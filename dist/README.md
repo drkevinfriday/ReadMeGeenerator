@@ -1,7 +1,8 @@
-# Professional README Generator Starter Code
+# run buddy
+
   ## Description
   
-  This command line app was created to generate a readme based on user input
+  this is a landing page for a website 
   - 
   
   ## Table of Contents
@@ -15,14 +16,12 @@
   
   ## Installation
   
-    Install node.js and the inquirer package.
+  install on  server
   
   ## Usage
   List of Technolgy
 	--HTML
 	--CSS
-    --JAVASCRIPT
-
 	
 
 
@@ -30,7 +29,7 @@
  
   ## Credits
   
-    Kevin Friday
+  kevin friday
   
   ## License
 
@@ -56,4 +55,3 @@
   
   this is fully tested
   
-
